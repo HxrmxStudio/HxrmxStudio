@@ -16,7 +16,8 @@ I’m a results-driven **Team Lead** and **Full-Stack Developer.Jr** with a stro
 - **Soft Skills**: Leadership, Problem-Solving, Process Optimization, Customer Focus  
 
 🔹 **Currently Learning**:  
-- **Three.js**: Bringing 3D graphics to web applications  
+- **Three.js**: Bringing 3D graphics to web applications
+- **TypeScript
 
 ---
 
