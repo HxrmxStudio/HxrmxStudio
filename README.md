@@ -11,7 +11,7 @@ I’m a results-driven **Team Lead** and **Full-Stack Developer.Jr** with a stro
 
 🔹 **Key Skills**:  
 - **Frontend**: React, Tailwind CSS, JavaScript, HTML, CSS  
-- **Backend**: Node.js, Express, MongoDB, JWT, bcrypt  
+- **Backend**: Node.js, Express, MongoDB, JWT, bcrypt , Ruby on Rails. 
 - **Tools**: Git, GitHub, Figma, Mocha & Chai (Testing)  
 - **Soft Skills**: Leadership, Problem-Solving, Process Optimization, Customer Focus  
 
