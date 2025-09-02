@@ -1,50 +1,61 @@
 # 👋 **Hi, I'm Emiliano Rozas!**
 
-**Team Lead | Full-Stack Developer.Jr | Passionate About Building and Leading Tech Solutions**  
+**Full-Stack Developer | Backend Specialist (Rails/Go) | Building AI & HR Solutions at Mainder**  
 📍 **Barcelona, Spain**
 
 ---
 
 ## 🚀 **About Me**
 
-I’m a results-driven **Team Lead** and **Full-Stack Developer.Jr** with a strong background in **team leadership, account management**, and **customer care**. Recently, I transitioned into **web development**, specializing in the **MERN stack** (MongoDB, Express, React, Node.js). I thrive on solving problems, optimizing workflows, and developing efficient, user-centric applications.
+I’m a **Full-Stack Developer** with a strong focus on **backend engineering, system design, and scalable solutions**. Currently, I’m part of the development team at **Mainder**, where I work across **microservices, integrations, and AI-driven tools** that power recruitment and logistics platforms.
 
-🔹 **Key Skills**:  
-- **Frontend**: React, Tailwind CSS, JavaScript, HTML, CSS  
-- **Backend**: Node.js, Express, MongoDB, JWT, bcrypt , Ruby on Rails. 
-- **Tools**: Git, GitHub, Figma, Mocha & Chai (Testing)  
-- **Soft Skills**: Leadership, Problem-Solving, Process Optimization, Customer Focus  
+My journey started in **marketing and leadership**, and over time I transitioned into tech — first through the **MERN stack**, and now specializing in **Ruby on Rails, Go, TypeScript, and Next.js**. I love solving complex problems, modularizing messy systems, and building applications that balance **performance, usability, and scalability**.
 
-🔹 **Currently Learning**:  
-- **Three.js**: Bringing 3D graphics to web applications
-- **TypeScript**
+🔹 **Core Skills & Tools**:  
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS, Three.js  
+- **Backend**: Ruby on Rails, Go, Node.js, Express, PostgreSQL (incl. PostGIS), Redis, Sidekiq  
+- **Architecture**: Microservices, Modularization, Event-driven design, WebSockets, Webhooks  
+- **DevOps & Tools**: Docker, AWS (S3, Render, Railway, Vercel), Git/GitHub, n8n, Postman  
+- **AI & Automation**: Prompt Engineering, Claude/GPT integrations, Agentic chat design, Claude Code.  
+- **Soft Skills**: Team Collaboration, Process Optimization, Problem-Solving, Leadership  
+
+🔹 **Currently Working On**:  
+- **AI-Hunt** → An AI-powered candidate search engine with automated sourcing flows.  
+- **Multiposting Service** → Microservice for job posting/unpublishing across providers (Idibu, InfoJobs, LinkedIn Recruiter).  
+- **Entelequia-Track** → A logistics MVP with real-time courier tracking, POD/OTP antifraud flows, and analytics dashboards.  
+- **PDF & UI Pipelines** → Advanced candidate/job exports with custom styling, anonymization, and print-ready layouts.  
 
 ---
 
-## 🛠️ **Projects**
+## 🛠️ **Highlighted Projects**
 
-### 🎨 **[3D Portfolio](https://github.com/HxrmxStudio/my-3D-portfolio)**
-An interactive **3D portfolio** showcasing my skills, projects, and experience as a developer. Built with **ReactJS** and **Three.js**, this project features:
+### 🧩 **Mainder – Multiposting Microservice**
+Redesigned a legacy **monolithic posting system** into a modular microservice architecture, handling:  
+- 📡 **Integrations** with Idibu, InfoJobs, LinkedIn Recruiter (OAuth, Job Sync, Apply Connect).  
+- 🔄 **Unpublish/Publish flows** with race condition handling.  
+- 🛠 **Refactor from 4000-line Go files** into clean, maintainable Rails/Go modules.  
 
-- 🌟 **Immersive 3D Animations**  
-- 📱 **Responsive Design**  
-- ✨ **Modern UI/UX**
+### 🤖 **Mainder AI / TU-IA (AI-Hunt)**
+Built AI-powered agents to **source and rank candidates** automatically.  
+- ⚡️ **Claude + GPT prompt engineering** for multi-agent workflows.  
+- 📑 Candidate profile **PDF generation** with anonymization, agency branding, and print-ready layouts.  
+- 🔍 **n8n pipelines** for data enrichment and automated hunts.  
 
-### 📚 **[Entelequia Comic-Book Store](https://github.com/Hxrmx420/Entelequia-E-commerce)**
+### 🚚 **Entelequia-Track (Logistics MVP)**
+Designed and implemented a **real-time courier tracking system**.  
+- 📍 GPS tracking with **PostGIS**, offline batching, and background modes (Android/iOS).  
+- ✅ POD antifraud flows: QR/OTP validation, geofencing, photo & geostamp compliance.  
+- 📊 Analytics dashboards: On-time rates, delivery attempts, fraud ratio, SLA breaches.  
+- 📦 CSV imports with mapping, dry-run validations, and webhooks for external order ingestion.  
 
-A full-featured **e-commerce platform** for comic and manga enthusiasts, inspired by my family’s business. Developed with the **MERN stack**, it includes features like:
+### 🎨 **3D Portfolio** – [Repo](https://github.com/HxrmxStudio/my-3D-portfolio)  
+Interactive **3D portfolio site** built with **React + Three.js**.  
 
-- 🛒 **Product Management** (Add, Edit, Delete)  
-- 💳 **Shopping Cart & Payment Integration**  
-- ⭐ **User Reviews and Best-Seller Categories**  
+### 📚 **Entelequia Comic-Book Store** – [Repo](https://github.com/Hxrmx420/Entelequia-E-commerce)  
+MERN-stack e-commerce platform for comics & manga.  
 
-### 🌐 **[Unsocial](https://github.com/Hxrmx420/Unsocial--Social-Network)**
-
-A **full-stack social media platform** designed to enhance user engagement. Key features include:
-
-- 📝 **Post Creation and Management**  
-- 💬 **Nested Comment System**  
-- 🔒 **Secure User Authentication**  
+### 🌐 **Unsocial** – [Repo](https://github.com/Hxrmx420/Unsocial--Social-Network)  
+Full-stack social media platform with secure auth and nested comments.  
 
 ---
 
@@ -60,10 +71,10 @@ A **full-stack social media platform** designed to enhance user engagement. Key 
 
 ## 🌟 **Why Work With Me?**
 
-- **Leadership Experience**: Proven track record of leading teams and delivering results.  
-- **Technical Skills**: Proficient in full-stack development with a focus on modern web technologies.  
-- **Continuous Learner**: Committed to expanding my skills and staying updated with industry trends.  
-- **Collaboration**: Excellent at cross-functional teamwork and communication.
+- **Scalable Engineering**: From monoliths to microservices, I specialize in building systems that grow.  
+- **AI-Driven Mindset**: Comfortable designing agentic flows and prompt systems for real products.  
+- **Cross-Functional Collaboration**: Experience working with PMs, designers, and dev teams to deliver fast.  
+- **Problem Solver**: From messy datasets to complex integrations, I thrive in untangling challenges.  
 
 ---
 
@@ -75,6 +86,6 @@ A **full-stack social media platform** designed to enhance user engagement. Key 
 
 ---
 
-### 💬 **I’m Open to New Opportunities!**
+### 💬 **Open to Collaboration & Opportunities!**
 
-Whether you’re looking for a **Full-Stack Developer.Jr**, a **Team Lead**, or a tech enthusiast to join your project, feel free to reach out. Let's build something amazing together! 🚀
+Whether you’re building an **AI agent**, a **scalable backend**, or a **logistics/HR platform**, I’d love to connect and create something impactful together. 🚀
